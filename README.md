@@ -3,7 +3,6 @@
 - Hi there! 👋 <br>
 - I'm a <b>`Front-End Developer`</b> and interested in <b>`Web Design`</b> 💞 <br>
 - I’m a junior in <b>`Ajou Univ.`</b> 🌱 <br>
-- I’m currently working on <b>`Vision Inside Co.` </b> 💻 <br>
 - I'm currently studying <b>`Typescript`</b> <b>`Next.js`</b> <b>`Machine Learning`</b> 🎉<br>
 
 ### 📚 Tech Stack
