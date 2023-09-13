@@ -4,6 +4,7 @@
 - I'm a <b>`Front-End Developer`</b> and interested in <b>`Web Design`</b> 💞 <br>
 - I’m a junior in <b>`Ajou Univ.`</b> 🌱 <br>
 - I'm currently studying <b>`Typescript`</b> <b>`Next.js`</b> <b>`Machine Learning`</b> 🎉<br>
+- You can check my portfolio <a href="https://www.notion.so/YUNAH-hanuuny-4bc036779556461c844c015667dc73a5?pvs=4"><b>`Click!`</b></a> ✈️
 
 ### 📚 Tech Stack
 #### 🛠️ Languages & Frameworks
